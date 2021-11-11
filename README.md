@@ -8,7 +8,7 @@ Roms by:\
     [dmatlack](https://github.com/dmatlack/chip8.git)
 
 To build :
-+```bash 
+```bash 
 cargo build {--release}
 ```\
 To run test progarm: `./target/{release, debug}/chip8 roms/test.ch8`
