@@ -12,5 +12,7 @@ To build :
 cargo build {--release}
 ```
 
-\
-To run test progarm: `./target/{release, debug}/chip8 roms/test.ch8`
+To run test progarm:
+```bash 
+ `./target/{release, debug}/chip8 roms/test.ch8`
+```
