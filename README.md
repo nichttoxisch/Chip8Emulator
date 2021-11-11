@@ -7,12 +7,8 @@ Roms by:\
     [Corax89](https://github.com/corax89/chip8-test-rom)\
     [dmatlack](https://github.com/dmatlack/chip8.git)
 
-To build :
+To run :
 ```bash 
 cargo build {--release}
-```
-
-To run test progarm:
-```bash 
- `./target/{release, debug}/chip8 roms/test.ch8`
+./target/{release, debug}/chip8 roms/test.ch8
 ```
